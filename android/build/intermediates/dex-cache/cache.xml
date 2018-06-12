@@ -12,84 +12,48 @@
     </item>
     <item
         is-multidex="false"
-        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_590beeb93c17bbadea4e100d355e7fd95abbf349.jar" />
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_a59741aecfdcf48942b18dd1e76eb970b97006a8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Andri\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_62de32e216a659b5a59cc2f93cef47983aa9ea5e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Andri\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_3489bc48b02d32f6daa0b2efde393b8e6f40fdb5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_1956765c93f21eab1257011e91b21446b860e3a1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Andri\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_12193d9e68944bb53e47b849be53ed45a0fbcd26.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_b6c017854b301470ed85b234f26da334942f6262.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_b5b454dabf4d0253cfbf31622503d12a01ac1536.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_1278552daae07221b61f50a0ef74a4280ba71083.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_ae0bcb7910f09d14aa60d34b6ec10a32e84b41d2.jar" />
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_344c9d786ae2c060606ed532e8e7ac3dd4ef13f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_7130b00271c141e6f2fe4ff77af71fca6ce93954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_984953c02be9208700302be048c8bba9e73240b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_873b43bcfc08a3bf43a652910adedbe550fb5180.jar" />
     </item>
     <item
         is-multidex="false"
@@ -108,33 +72,6 @@
         revision="23.0.1"
         sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
         <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_609c873e867fbb29b4acc06ac83346fba1c81531.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_f8949903e8790139da4ea6c2b2c06a0cb26d4677.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Andri\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_4a84c0b8f1e02312c81672104ff282605e6afe33.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_7e656d1944bfa2201ef6bdf71e0c94765f250cc9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -165,12 +102,57 @@
     </item>
     <item
         is-multidex="false"
-        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_f5e21c75144b4b4c5f5d0a3f15c2e15c16a640b6.jar" />
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_1956765c93f21eab1257011e91b21446b860e3a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_2c961f067639bdc2ea03430c25ca7582a7cd17d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_b6c017854b301470ed85b234f26da334942f6262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_b5b454dabf4d0253cfbf31622503d12a01ac1536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andri\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_4a84c0b8f1e02312c81672104ff282605e6afe33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_0681e8ea4ee34af7aa6d09a6e5a25671c3518534.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,12 +165,147 @@
     </item>
     <item
         is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b60eabd8c7813f918167c8a91a9d8703c8613dcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_09cb64f0ca92cf0dab3e0acf7ab5191e935e7779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andri\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_62de32e216a659b5a59cc2f93cef47983aa9ea5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andri\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_12193d9e68944bb53e47b849be53ed45a0fbcd26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_ae0bcb7910f09d14aa60d34b6ec10a32e84b41d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_f8949903e8790139da4ea6c2b2c06a0cb26d4677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_8a04294bc6a69982fe11253b5b0e1ffec10158d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_7e656d1944bfa2201ef6bdf71e0c94765f250cc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
         <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_03ac89a3bfb325b9d9431724c972c641cc1aba06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_590beeb93c17bbadea4e100d355e7fd95abbf349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_480c987653c7193ea373cad055f98e056757fb87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andri\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_3489bc48b02d32f6daa0b2efde393b8e6f40fdb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_1278552daae07221b61f50a0ef74a4280ba71083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_3bbd531f65aa2e656f8a8923cd552c7aab006429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_f5e21c75144b4b4c5f5d0a3f15c2e15c16a640b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="H:\Users\Eko Andri\Documents\Dropbox\Dropbox\Kuliah\uas_android_contact\tugas_uas\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_57f724473746a465dfd9687725265351dbc4124a.jar" />
     </item>
 
 </items>

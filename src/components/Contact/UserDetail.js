@@ -8,12 +8,13 @@ const UserDetail = ({ userdata }) => {
 
   const { fullname, title, emailid, mobile, pp, ava } = userdata;
   const { container, image, image2, image2Container, content, textStyle, text2Style } = styles;
+  const url = "https://app.subarnanto.com/";
 
   return (
     <Card>
       <CardSection>
         <View style={container}>
-          <Image style={image} source={{ uri: pp }} />
+          <Image style={image} source={{ uri: url + pp }} />
         </View>
         <View style={content}>
           <Text style={text2Style}>{fullname}</Text>
